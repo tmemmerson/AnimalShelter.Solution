@@ -24,7 +24,7 @@ namespace AnimalShelter.Controllers
     [HttpGet]
     public ActionResult<IEnumerable<Pet>> Get(string petName, string petAdmissionDate, string petTaxonomy, string petBreed, string petDescription)
     {
-        var query = _db.Creatures.AsQueryable(); //standard
+        var query = _db.Pets.AsQueryable(); //standard
 
         if (petName != null)
         {
