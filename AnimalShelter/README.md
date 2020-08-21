@@ -1,10 +1,10 @@
 
 
 <h1 align="center">
-  <img width="900" height="450" src="https://coding-assets.s3-us-west-2.amazonaws.com/hero_images/beast_master_header.jpg">
+  <img width="900" height="450" src="https://coding-assets.s3-us-west-2.amazonaws.com/hero_images/AnimalShelter.Solution.jpg">
 
   
-**<h1 align = "center">Beast Master**
+**<h1 align = "center">Animal Shelter**
 
 
 </h1>
@@ -68,22 +68,17 @@ Select Body Tab
 Select Raw Radio Button
 Select JSON from dropdown
 Write your addition to the database in the following format
+
 {
-  "creatureName" = "your value",
-  "creatureOriginCulure" = "your value",
-  "creatureOriginDate" = "your value",
-  "creatureTaxonomy" = "your value",
-  "creatureType" = "your value",
-  "creatureAbility" = "your value",
-  "creatureHabitat" = "your value",
-  "creatureMorality" = "your value",
-  "creatureDescription" = "your value",
-  "creatureImage" = "your value",
-  "creatureLifespan" = "your value",
-  "creatureRelatedCreature" = "your value",
-  "creatureNemesis" = "your value",
-  "creatureWeakness" = "your value"
+    "petId": 1,
+    "petName": "Mark",
+    "petAdmissionDate": "8/13/2020",
+    "petTaxonomy": "Cat",
+    "petBreed": "Calico",
+    "petDescription": "Don't look Mark straight in the eyes. He likes to get scratchy."
 }
+
+
 
 ~TO EDIT AN ITEM~
 Make a GET request for the id you wish to edit
@@ -187,13 +182,7 @@ _**None as of:** 8/20/2020_
 
 ## **CONTRIBUTORS**
 
-| [<img src='https://coding-assets.s3-us-west-2.amazonaws.com/linked-in-images/sean-downs.jpeg' width='160px;'/><br /><sub><b>Sean Downs</b></sub>](https://www.linkedin.com/in/sean-downs/)<br />
 
-
-| [<img src='https://coding-assets.s3-us-west-2.amazonaws.com/linked-in-images/taylor-somers.jpeg' width='160px;'/><br /><sub><b>Taylor Somers</b></sub>](https://www.linkedin.com/in/taylorsomers/)<br />
-
-
-| [<img src='https://coding-assets.s3-us-west-2.amazonaws.com/linked-in-images/erich-richter.jpeg' width='160px;'/><br /><sub><b>Erich Richter</b></sub>](https://www.linkedin.com/in/erichjrichter/)<br />
 
 | [<img src='https://coding-assets.s3-us-west-2.amazonaws.com/img/tristan_emmerson.jpg' width='160px;'/><br /><sub><b>Tristan Emmerson</b></sub>](https://www.linkedin.com/in/tristan-emmerson/)<br />
 
