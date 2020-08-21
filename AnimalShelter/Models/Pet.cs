@@ -7,7 +7,7 @@ using Newtonsoft.Json.Linq;
 
 namespace AnimalShelter.Models
 {
-  public class Animal
+  public class Pet
   {
     public int PetId { get; set; }
     public string PetName { get; set; }
