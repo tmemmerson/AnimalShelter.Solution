@@ -1,14 +1,10 @@
-
-
 <h1 align="center">
-  <img width="900" height="450" src="https://coding-assets.s3-us-west-2.amazonaws.com/hero_images/AnimalShelter.Solution.jpg">
+<img width="900" height="450" src="https://coding-assets.s3-us-west-2.amazonaws.com/hero_images/AnimalShelter.Solution.jpg">
 
-  
 **<h1 align = "center">Animal Shelter**
 
-
 </h1>
-     
+
 <br>
 
 <h4 align = "center">
@@ -20,7 +16,6 @@
   <a href='#cloning'>Cloning</a>
   </h4>
 
-
 <br>
 
 # **ABOUT**
@@ -31,17 +26,13 @@ You've completed a few projects at the dev agency where you work and you've been
 * Application includes CRUD functionality and successfully returns responses to API calls.
 * Application includes pagination
 
-
 # **REQUIREMENTS** 
 
 * Install [Git v2.62.2+](https://git-scm.com/downloads/)
 * Install [.NET version 3.1 SDK v2.2+](https://dotnet.microsoft.com/download/dotnet-core/2.2)
 * Install [Visual Studio Code](https://code.visualstudio.com/)
 * Install [MySql Workbench](https://www.mysql.com/products/workbench/)
-* Install [Postman]](https://www.postman.com/)
-
-
-
+* Install [Postman](https://www.postman.com/)
 
 # **CLONING**
 copy this url to clone this project to your local system:
@@ -89,8 +80,6 @@ dotnet ef database update
 dotnet watch run
 ``
 
-
-
 ## TO GET AN ITEM
 * Open Postman
 * Set your request to type "GET" 
@@ -136,7 +125,6 @@ dotnet watch run
 * Set your request to Delete
 * Hit Send
 
-
 ## USING PAGINATION
 * you can use routing in this structure when making your requests to limit the return data
 * adjust the PageNumber and PageSize values in your request to do so
@@ -163,8 +151,6 @@ _**None as of:** 8/21/2020_
 <br>
 
 # **CONTRIBUTORS**
-
-
 
 | [<img src='https://coding-assets.s3-us-west-2.amazonaws.com/img/tristan_emmerson.jpg' width='160px;'/><br /><sub><b>Tristan Emmerson</b></sub>](https://www.linkedin.com/in/tristan-emmerson/)<br />
 
